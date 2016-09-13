@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Penguin&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://penguin-g.github.io/"/>
+  <updated>2016-09-13T15:43:59.349Z</updated>
+  <id>https://penguin-g.github.io/</id>
+  
+  <author>
+    <name>Penguin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用GitHub和Hexo搭建免费静态Blog</title>
+    <link href="https://penguin-g.github.io/2016/09/13/%E4%BD%BF%E7%94%A8GitHub%E5%92%8CHexo%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E9%9D%99%E6%80%81Blog/"/>
+    <id>https://penguin-g.github.io/2016/09/13/使用GitHub和Hexo搭建免费静态Blog/</id>
+    <published>2016-09-13T14:13:41.300Z</published>
+    <updated>2016-09-13T15:43:59.349Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<p><img src="http://i.imgur.com/A0OjhNB.png" alt="github+hexo"><br><a id="more"></a></p>
+<h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><hr>
+<h4 id="安装GIT"><a href="#安装GIT" class="headerlink" title="安装GIT"></a>安装GIT</h4><p><a href="https://desktop.github.com/" target="_blank" rel="external">GitHub Windows</a><br>So Easy.</p>
+<h4 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h4><p><a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a><br>So Easy.</p>
+<h4 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h4><p>配置好<code>GitHub</code> home目录后，双击桌面上的<code>Git Shell</code>，输入<code>npm</code>命令即可安装<br><code>$ npm install hexo-cli -g</code></p>
+<h3 id="Hexo初始化配置"><a href="#Hexo初始化配置" class="headerlink" title="Hexo初始化配置"></a>Hexo初始化配置</h3><hr>
+<h4 id="创建Hexo文件夹"><a href="#创建Hexo文件夹" class="headerlink" title="创建Hexo文件夹"></a>创建Hexo文件夹</h4><p>安装完成后，根据自己喜好建立目录（如<code>E:\GitHub\hexo</code>），进入 <code>Git Shell</code>切换到该路径下 <code>E:\GitHub\hexo</code> 执行以下指令:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">$ hexo init &lt;folder&gt;</div><div class="line">$ cd &lt;folder&gt;</div><div class="line">$ npm install</div><div class="line"></div><div class="line"># 目录如下:</div><div class="line">.</div><div class="line">├── _config.yml</div><div class="line">├── package.json</div><div class="line">├── scaffolds</div><div class="line">├── scripts</div><div class="line">├── source</div><div class="line">|     ├── _drafts</div><div class="line">|     └── _posts</div><div class="line">└── themes</div></pre></td></tr></table></figure></p>
+<h4 id="安装一些常用插件"><a href="#安装一些常用插件" class="headerlink" title="安装一些常用插件"></a>安装一些常用插件</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">npm install hexo-generator-index --save</div><div class="line">npm install hexo-generator-archive --save</div><div class="line">npm install hexo-generator-category --save</div><div class="line">npm install hexo-generator-tag --save</div><div class="line">npm install hexo-server --save</div><div class="line">npm install hexo-deployer-git --save</div><div class="line">npm install hexo-deployer-heroku --save</div><div class="line">npm install hexo-deployer-rsync --save</div><div class="line">npm install hexo-deployer-openshift --save</div><div class="line">npm install hexo-renderer-marked --save</div><div class="line">npm install hexo-renderer-stylus --save</div><div class="line">npm install hexo-generator-feed --save</div><div class="line">npm install hexo-generator-sitemap --save</div></pre></td></tr></table></figure>
+<h4 id="查看本地效果"><a href="#查看本地效果" class="headerlink" title="查看本地效果"></a>查看本地效果</h4><p>继续执行以下命令，成功后可登录<code>localhost:4000</code>查看效果<br><code>$ hexo s --debug</code></p>
+<h4 id="Hexo一些常用指令"><a href="#Hexo一些常用指令" class="headerlink" title="Hexo一些常用指令"></a>Hexo一些常用指令</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">$ hexo init [folder]    #初始化一个网站目录</div><div class="line">$ hexo new [layout] &lt;title&gt;    #新建一篇文章</div><div class="line">$ hexo generate    #生成静态文件</div><div class="line">$ hexo server    #启动服务器,默认情况下，访问网址为： http://localhost:4000/</div><div class="line">$ hexo deploy    #部署网站</div><div class="line">$ hexo clean    #清除缓存文件 (`db.json`) 和已生成的静态文件 (`public`)</div><div class="line">$ hexo --debug    #在终端中显示调试信息并记录到 `debug.log`</div></pre></td></tr></table></figure>
+<blockquote>
+<p>命令简写举例:<br><code>$ hexo server</code> 可以写成 <code>$ hexo s</code> </p>
+</blockquote>
+<h4 id="Hexo主题设置"><a href="#Hexo主题设置" class="headerlink" title="Hexo主题设置"></a>Hexo主题设置</h4><p>这里以主题<code>next</code>为例进行说明</p>
+<h6 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ cd your-hexo-site</div><div class="line">$ git clone https://github.com/iissnan/hexo-theme-next themes/next</div></pre></td></tr></table></figure>
+<h6 id="启用主题"><a href="#启用主题" class="headerlink" title="启用主题"></a>启用主题</h6><p>打开<strong>站点配置文件</strong> <code>_config.yml</code>， 找到 theme字段，并将其值更改为 next</p>
+<h6 id="更新主题"><a href="#更新主题" class="headerlink" title="更新主题"></a>更新主题</h6><p><code>$ hexo s --debug</code><br>现在打开<code>http://localhost:4000/</code> ，会看到我们已经应用了一个新的主题</p>
+<h3 id="部署静态网页到GitHub"><a href="#部署静态网页到GitHub" class="headerlink" title="部署静态网页到GitHub"></a>部署静态网页到GitHub</h3><hr>
+<h4 id="注册设置GitHub"><a href="#注册设置GitHub" class="headerlink" title="注册设置GitHub"></a>注册设置GitHub</h4><ol>
+<li>登录<a href="https://github.com/" target="_blank" rel="external">GitHub</a>，注册自定义用户名如 <code>penguin-g</code></li>
+<li>在主页右下角创建<code>New repository</code>，<code>name</code>必须和用户名一致如<code>penguin-g.github.io</code></li>
+<li>首次创建耐心等待10分钟左右审核，之后即可访问静态主页</li>
+</ol>
+<h4 id="同步内容至GitHub"><a href="#同步内容至GitHub" class="headerlink" title="同步内容至GitHub"></a>同步内容至GitHub</h4><ol>
+<li>设置<code>Local path</code>,如<code>E:\GitHub\</code></li>
+<li>运行<code>Git Shell</code>切换到,如<code>E:\GitHub\hexo</code>路径下</li>
+<li>执行<code>hexo g</code>命令生成<code>public</code>目录</li>
+<li>运行<code>GitHub</code>，点击左上角的<code>＋</code>，<code>Clone</code>刚才新建的库,会在<code>E:\GitHub\</code>下生成一个库名一样的目录，如<code>penguin-g</code></li>
+<li>把<code>public</code>下生成的内容全部拷贝到<code>penguin-g</code>的目录下</li>
+<li>确认修改信息后执行<code>GitHub</code>右上角的<code>Sync</code>同步</li>
+<li>最后访问主页观察效果</li>
+</ol>
+<h3 id="域名和DNS"><a href="#域名和DNS" class="headerlink" title="域名和DNS"></a>域名和DNS</h3><hr>
+<h4 id="域名推荐"><a href="#域名推荐" class="headerlink" title="域名推荐"></a>域名推荐</h4><p><a href="http://www.godaddy.com/" target="_blank" rel="external">http://www.godaddy.com/</a></p>
+<h4 id="DNS推荐"><a href="#DNS推荐" class="headerlink" title="DNS推荐"></a>DNS推荐</h4><p><a href="https://www.dnspod.cn/" target="_blank" rel="external">https://www.dnspod.cn/</a></p>
+<h4 id="设置CNAME"><a href="#设置CNAME" class="headerlink" title="设置CNAME"></a>设置CNAME</h4><ol>
+<li>在<code>Github</code>的网站目录下创建<code>CNAME</code>文件</li>
+<li>填写自己的域名如<code>0924.tk</code>，保存结束</li>
+<li>登录<code>DNSPod</code>，先添加域名，然后添加记录，设置如下</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>主机记录</th>
+<th>记录类型</th>
+<th>线路类型</th>
+<th>记录值</th>
+<th>权重</th>
+<th>MX优先值</th>
+<th>TTL </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>@</td>
+<td>CNAME</td>
+<td>默认</td>
+<td>penguin-g.github.io</td>
+<td>-</td>
+<td>-</td>
+<td>60</td>
+</tr>
+<tr>
+<td>www</td>
+<td>CNAME</td>
+<td>默认</td>
+<td>penguin-g.github.io</td>
+<td>-</td>
+<td>-</td>
+<td>60</td>
+</tr>
+</tbody>
+</table>
+<h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><hr>
+<ol>
+<li>修改配置文件时注意<code>YAML</code>语法，参数<code>冒号:</code>后一定要留<code>空格</code></li>
+<li>中文乱码请修改文件编码格式为<code>UTF-8</code></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/A0OjhNB.png&quot; alt=&quot;github+hexo&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://penguin-g.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://penguin-g.github.io/2016/09/03/hello-world/"/>
+    <id>https://penguin-g.github.io/2016/09/03/hello-world/</id>
+    <published>2016-09-03T15:19:27.011Z</published>
+    <updated>2016-09-13T14:46:34.578Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
