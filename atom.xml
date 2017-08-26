@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://penguin-g.github.io/"/>
-  <updated>2017-08-26T06:18:54.702Z</updated>
+  <updated>2017-08-26T10:29:41.479Z</updated>
   <id>https://penguin-g.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/"/>
     <id>https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/</id>
     <published>2017-08-26T05:50:15.646Z</published>
-    <updated>2017-08-26T06:18:54.702Z</updated>
+    <updated>2017-08-26T10:29:41.479Z</updated>
     
     <content type="html"><![CDATA[<h3 id="新建Assense模版"><a href="#新建Assense模版" class="headerlink" title="新建Assense模版"></a>新建Assense模版</h3><pre><code>themes/xxxx/layout/_custom_ad/google_adsense.ejs
 </code></pre><p>将Google Adsense的代码复制到google_adsense.ejs<br><a id="more"></a></p>
