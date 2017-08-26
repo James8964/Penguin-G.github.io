@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://penguin-g.github.io/"/>
-  <updated>2017-08-26T06:01:54.728Z</updated>
+  <updated>2017-08-26T06:18:54.702Z</updated>
   <id>https://penguin-g.github.io/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/"/>
     <id>https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/</id>
     <published>2017-08-26T05:50:15.646Z</published>
-    <updated>2017-08-26T06:01:54.728Z</updated>
+    <updated>2017-08-26T06:18:54.702Z</updated>
     
     <content type="html"><![CDATA[<h3 id="新建Assense模版"><a href="#新建Assense模版" class="headerlink" title="新建Assense模版"></a>新建Assense模版</h3><pre><code>themes/xxxx/layout/_custom_ad/google_adsense.ejs
-</code></pre><p>将Google Adsense的代码复制到google_adsense.ejs</p>
+</code></pre><p>将Google Adsense的代码复制到google_adsense.ejs<br><a id="more"></a></p>
 <h3 id="编辑layout-ejs"><a href="#编辑layout-ejs" class="headerlink" title="编辑layout.ejs"></a>编辑layout.ejs</h3><p>将广告添加到合适的位置</p>
 <pre><code>&lt;!-- ad start --&gt;
 &lt;%- partial(&apos;_custom_ad/google_adsense&apos;) %&gt;
@@ -32,7 +32,8 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;新建Assense模版&quot;&gt;&lt;a href=&quot;#新建Assense模版&quot; class=&quot;headerlink&quot; title=&quot;新建Assense模版&quot;&gt;&lt;/a&gt;新建Assense模版&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;themes/xxxx/layout/_custom
+      &lt;h3 id=&quot;新建Assense模版&quot;&gt;&lt;a href=&quot;#新建Assense模版&quot; class=&quot;headerlink&quot; title=&quot;新建Assense模版&quot;&gt;&lt;/a&gt;新建Assense模版&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;themes/xxxx/layout/_custom_ad/google_adsense.ejs
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;将Google Adsense的代码复制到google_adsense.ejs&lt;br&gt;
     
     </summary>
     
