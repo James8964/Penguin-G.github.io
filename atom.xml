@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://penguin-g.github.io/"/>
-  <updated>2017-08-26T14:29:21.573Z</updated>
+  <updated>2017-08-26T15:10:22.978Z</updated>
   <id>https://penguin-g.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/"/>
     <id>https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/</id>
     <published>2017-08-26T05:50:15.646Z</published>
-    <updated>2017-08-26T14:29:21.573Z</updated>
+    <updated>2017-08-26T15:10:22.978Z</updated>
     
     <content type="html"><![CDATA[<h3 id="新建Assense模版"><a href="#新建Assense模版" class="headerlink" title="新建Assense模版"></a>新建Assense模版</h3><pre><code>themes/xxxx/layout/_custom_ad/google_adsense.ejs
 </code></pre><p>将Google Adsense的代码复制到google_adsense.ejs<br><a id="more"></a></p>
@@ -28,7 +28,7 @@
 <pre><code>&lt;!-- ad start --&gt;
 &lt;%- partial(&apos;_custom_ad/google_adsense&apos;) %&gt;
 &lt;!-- ad end --&gt;
-</code></pre><iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/327ae08d/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
+</code></pre><iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/gh-pages/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
     
     <summary type="html">
     
@@ -51,7 +51,7 @@
     <link href="https://penguin-g.github.io/2017/08/24/Best-bitcoin-cloud%20mining-contract-reviews-and-comparisons/"/>
     <id>https://penguin-g.github.io/2017/08/24/Best-bitcoin-cloud mining-contract-reviews-and-comparisons/</id>
     <published>2017-08-24T13:24:24.200Z</published>
-    <updated>2017-08-26T14:29:39.772Z</updated>
+    <updated>2017-08-26T15:10:06.349Z</updated>
     
     <content type="html"><![CDATA[<h3 id="什么是比特币云挖矿？"><a href="#什么是比特币云挖矿？" class="headerlink" title="什么是比特币云挖矿？"></a>什么是比特币云挖矿？</h3><p><img src="https://cl.ly/1n37293k1Q3u/bitcoin-cloud-mining-scams.jpg" alt="scam"><br><a id="more"></a></p>
 <p>云挖矿或云哈希计算使用户能够在数据中心购买硬件的挖矿能力。</p>
@@ -129,7 +129,7 @@
 <p><strong>Zeushash评价</strong>: 似乎已经停止支付。</p>
 <p><strong>Bitminer.io 评价</strong>: 根据用户报告，他们似乎已经停止支付。</p>
 <blockquote><footer><strong>Written by</strong><cite><a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/" target="_blank" rel="external">Melvin Draupnir.</a></cite></footer></blockquote>
-<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/327ae08d/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
+<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/gh-pages/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
     
     <summary type="html">
     
@@ -155,7 +155,7 @@
     <link href="https://penguin-g.github.io/2017/08/15/Genesis-mining/"/>
     <id>https://penguin-g.github.io/2017/08/15/Genesis-mining/</id>
     <published>2017-08-15T13:34:15.955Z</published>
-    <updated>2017-08-26T14:29:28.435Z</updated>
+    <updated>2017-08-26T15:10:17.575Z</updated>
     
     <content type="html"><![CDATA[<hr>
 <p>中国的外汇管制措施将越来越严厉，人民币正借道比特币汇往境外，在人民币汇率崩盘之前，比特币都将持续升值。比特币成为中国资本外流的载体及担保物，再高的币值，也不影响其载体的功能。比特币的人民币与美元的汇率差，可视为资金汇出的成本。但因比特币币值正处在上升周期，用人民币购买比特币，比特币再换回外币时，时间差产生的升值冲销了部分资金汇出成本，甚至有所增值。只要比特币继续充当中国资金外流的载体，比特币就会继续升值，投资比特币正当其时。<br><a id="more"></a><br>投资比特币，可以直接购币等待升值，亦可直接挖矿，与直接购置矿机相比，通过云端挖矿投资少见效快风险低。比特币托管云挖矿公司Genesis Mining（创世纪矿业）是全世界两间真实云端挖矿公司的其中一间，详情可从谷歌等搜索引擎中查阅。按照比特币当前的价格，最近几个月的月回报超过投资额的15%，投资五六个月就能回本，以后就是净赚。投入越多回报越多。</p>
@@ -183,7 +183,7 @@
 <li>中国站客服中心: <a href="https://www.genesis-mining.hk/customer-service" target="_blank" rel="external">https://www.genesis-mining.hk/customer-service</a></li>
 </ul>
 <p>本站郑重提醒：投资有风险，后果自负。</p>
-<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/327ae08d/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
+<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/gh-pages/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
     
     <summary type="html">
     
@@ -210,7 +210,7 @@
     <link href="https://penguin-g.github.io/2016/09/13/Building-blog-with-hexo-and-github-pages/"/>
     <id>https://penguin-g.github.io/2016/09/13/Building-blog-with-hexo-and-github-pages/</id>
     <published>2016-09-13T14:13:41.300Z</published>
-    <updated>2017-08-26T14:29:35.316Z</updated>
+    <updated>2017-08-26T15:10:11.974Z</updated>
     
     <content type="html"><![CDATA[<hr>
 <p><img src="http://i.imgur.com/A0OjhNB.png" alt="github+hexo"><br><a id="more"></a></p>
@@ -291,7 +291,7 @@
 <li>修改配置文件时注意<code>YAML</code>语法，参数<code>冒号:</code>后一定要留<code>空格</code></li>
 <li>中文乱码请修改文件编码格式为<code>UTF-8</code></li>
 </ol>
-<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/327ae08d/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
+<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/gh-pages/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
     
     <summary type="html">
     
@@ -312,7 +312,7 @@
     <link href="https://penguin-g.github.io/2016/09/03/Hello-world/"/>
     <id>https://penguin-g.github.io/2016/09/03/Hello-world/</id>
     <published>2016-09-03T15:19:27.011Z</published>
-    <updated>2017-08-26T14:29:52.527Z</updated>
+    <updated>2017-08-26T15:11:34.844Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -323,7 +323,7 @@
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/327ae08d/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
+<iframe src="https://cdn.rawgit.com/Penguin-G/donate-page/gh-pages/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>]]></content>
     
     <summary type="html">
     
