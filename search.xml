@@ -1,54 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
-  <entry>
-    <title><![CDATA[在NexT主题下设置Goole Adsense]]></title>
-    <url>%2F2017%2F08%2F26%2FHow-to-show-google-adsense-in-hexo%2F</url>
-    <content type="text"><![CDATA[新建Assense模版themes/xxxx/layout/_custom_ad/google_adsense.ejs 将Google Adsense的代码复制到google_adsense.ejs 编辑layout.ejs将广告添加到合适的位置 &lt;!-- ad start --&gt; &lt;%- partial(&apos;_custom_ad/google_adsense&apos;) %&gt; &lt;!-- ad end --&gt; —— 本文结束 ——]]></content>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Next</tag>
-        <tag>Google</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[最佳比特币云挖矿合约评价与比较]]></title>
-    <url>%2F2017%2F08%2F24%2FBest-bitcoin-cloud%20mining-contract-reviews-and-comparisons%2F</url>
-    <content type="text"><![CDATA[什么是比特币云挖矿？ 云挖矿或云哈希计算使用户能够在数据中心购买硬件的挖矿能力。 2家运营商，Hashflare 和 Genesis Mining，多年来一直提供合约。 比特币云挖矿使人们能够获得比特币，而不需要使用比特币挖矿硬件、比特币挖矿软件、电、带宽，也没有其他离线问题。 比特币云挖矿，有时被称为云哈希计算，使用户可以从位于远程数据中心的比特币挖矿硬件购买比特币挖矿能力的产出。 那么所有的比特币挖矿都是在云端远程完成的。这使得所有者不需要处理在比特币挖矿时通常遇到的任何麻烦，如电、主机问题、热量、安装或故障维护。 比特币云挖矿的优势是什么？ 无需处理多余的热量 安静，因为没有持续发出嗡嗡声的电扇 无需电费 当比特币挖矿不再盈利时，无需出售比特币挖矿设备 热设备无通风问题 无需比特币挖矿设备供应商可能无法及时提供的预购比特币挖矿硬件 比特币云挖矿的劣势是什么？ 诈骗！！！ 无法验证的或可疑的比特币云端挖矿操作 不好玩！ 如果你喜欢建立自己的比特币哈希计算系统的话。 较低的利润——比特币云挖矿服务或运营商将收费 如果比特币价格太低，比特币挖矿合约将能够停止合约中的运营或支付 不能拥有比特币挖矿硬件 缺乏改变比特币挖矿软件的能力 最佳的比特币云哈希计算服务在此部分中列出这些服务并不代表对这些服务的认可，而是仅仅作为比特币云挖矿的比较。已发生大量的比特币云挖矿诈骗。 Hashflare 评价: Hashflare 提供 SHA-256 挖矿合约，可以开采利润更高的 SHA-256 比特币，但自动付款仍以比特币支付。客户必须至少购买 10 GH/s。 Genesis Mining评价: Genesis Mining 是最大的比特币和scrypt云挖矿提供商。Genesis Mining 提供三种比特币云计划，价格合理。还提供 Zcash 挖矿合约。 Hashing 24 评价: Hashing24 自2012年以来一直从事比特币挖矿。他们在冰岛和格鲁吉亚设有工厂。 他们使用 BitFury 的现代 ASIC 芯片，提供最高性能和效率。 Minex 评价: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买 Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。 Minergate 评价: 为比特币提供矿池以及合并的挖矿和云挖矿服务。 Hashnest 评价: Hashnest 由 Bitmain 运营，Bitmain 是比特币矿工的 Antminer 生产线的生产商。 HashNest 目前有超过 600 台 Antminer S7 可供出租。您可以在 Hashnest 的网站上查看最新的定价和供应情况。在撰写本文时，一台 Antminer S7 的哈希率的租赁价格为 $1,200。 Bitcoin Cloud Mining评价: 目前，所有比特币云挖矿合约都已售完。 NiceHash评价: NiceHash 是独一无二的因为它使用订单簿来匹配挖矿合约买家和卖家。查看它的网站获取最新价格。 Eobot评价: 从低至 $10 起云挖矿比特币。Eobot 声称客户可以在 14 个月内盈亏平衡。 MineOnCloud评价: MineOnCloud 目前在云端拥有大约 35 TH/s 的挖矿设备出租。可供出租的矿工包括 AntMiner S4和S5。 最佳比特币云挖矿合约及比较比特币云挖矿合约通常在特定时间段内以每个哈希为单位出售比特币，有几个因素会影响比特币云挖矿合约的盈利能力。 例如，对于24个月的合约，每GHash/s 的支付将为0.0012 BTC/GH。 合约时间从小时到多年不等。双方未知的主要因素是比特币网络难度，它在极大程度上决定了比特币云哈希计算合约的盈利能力 比特币网络难度是衡量在给定目标下找到一个哈希的困难程度。 比特币网络有一个全球性区块难度。 有效区块必须在此目标下有一个哈希。比特币挖矿矿池同样也有一个特定矿池的份额难度，设定了份额的下限。 比特币的网络难度每两个星期或每 2016 个区块会发生改变。 最佳莱特币云挖矿服务及比较以下是莱特币云挖矿合约的有限选择。如果下面列出的合约中没有符合您需求的合约，您可以购买比特币云挖矿合约（如上所列），并将您赚取的比特币转换为莱特币。 Hashflare 评价: Hashflare提供scrypt挖矿合约，1 MH/s 起购。 Genesis Mining评价: Genesis Mining 提供莱特币云挖矿合约。 Minex评价: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。 Minergate 评价: 为莱特币提供矿池以及合并的挖矿和云挖矿服务。 Eobot评价: Eobot提供莱特币云挖矿合约，每月支付0.0071 莱特币。 最佳达世币云挖矿服务及比较以下是达世币云挖矿合约的有限选择。如果下面列出的合约中没有符合您需求的合约，您可以购买比特币云挖矿合约（如上所列），并将您赚取的比特币转换为达世币。 Genesis Mining评价: 是全球规模最大的 X11 云挖矿提供商。Genesis Mining 提供三种价格合理的达世币 X11 云挖矿计划。 最佳以太币云挖矿服务及比较以下是以太币云挖矿合约的有限选择。如果下面列出的合约中没有符合您需求的合约，您可以购买比特币云挖矿合约（如上所列），并将您赚取的比特币转换为以太币。 Hashflare评价: Hashflare 是一家大型以太币云挖矿供应商，提供价格合理的以太坊云挖矿合约。 Genesis Mining评价: Genesis Mining 是规模最大的以太币云挖矿提供商。以太坊云挖矿合约价格合理。 Minex评价: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买 Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。 Eobot评价: Eobot提供以太坊挖矿合约，每月支付0.0060 以太币。 这个以太坊云挖矿指南将向您展示如何使用亚马逊云服务器来开采以太坊。 比特币云挖矿诈骗存在大量的比特币云挖矿诈骗，例如已发现的可能的50万美元比特币云挖矿庞氏骗局。在购买任何比特币挖矿合约之前，准买家应特别小心谨慎。需要引起注意的服务： Scrypt.cc评价: Scrypt.cc 允许在几秒钟内购买 KHS，并且立即开始挖矿，甚至能够以基于供需的价格实时交易您的 KHS！ 所有的 KHash 都可以在 2 个安全的数据中心得到安全的存储和维护。 PB Mining评价: 声称运营比特币挖矿 ASIC 硬件。当客户购买比特币挖矿合约后，他们将立即开始赚取比特币。在背驮式挖矿中（Piggyback Mining），他们支付电费和所有的比特币挖矿矿池费用。比特币挖矿合约进行了100％的投保，因为他们希望客户成功。 Bitcoin Cloud Services (BCS) 评价: 似乎已经成为$500,000的庞氏骗局欺诈。 Zeushash评价: 似乎已经停止支付。 Bitminer.io评价: 根据用户报告，他们似乎已经停止支付。 数字加密货币云挖矿公司Hashflare评价: 爱沙尼亚云矿工，拥有SHA-256、Scrypt和Scrypt-N选项，目前似乎是性价比最好的。 Genesis Mining评价: Genesis Mining 是最大的比特币和scrypt云挖矿提供商。 Hashing 24评价: Hashing24 自2012年以来一直从事比特币挖矿。他们在冰岛和格鲁吉亚设有工厂。他们使用 BitFury 的现代 ASIC 芯片，提供最高性能和效率。 Minex评价: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买 Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。 Minergate评价: MinerGate 是一组由数字加密货币爱好者创建的采矿池。它是首个为合并挖矿提供服务的矿池。这意味着，在我们的矿池挖矿时，您可以同时开采不同的货币，而不会减少主要货币的哈希率。 Hashnest评价: Hashnest 由 Bitmain 运营，Bitmain 是矿工蚂蚁矿机（Antminer）生产线的生产商。HashNest 目前拥有超过 600台 Antminer S7 可供出租。您可以在 Hashnest 的网站上查看最新的定价和供应情况。 Bitcoin Cloud Mining评价: 据说自2013年中以来一直在进行比特币挖矿。所有比特币矿工都位于澳大利亚最先进的数据中心，并可直接获得高质量的设备和全天候的支持。 NiceHash评价: NiceHash 向您提供销售和购买哈希能力的渠道。销售哈希能力就如同将您的矿工连接到我们的分层挖矿矿池一样简单，买家可以按需付费购买哈希能力，先付费后使用。声称提供一个创新的易于使用和无风险的云端挖矿服务。您可以开采绝大多数热门货币，基于 SHA-256（比特币等）、Scrypt（莱特币、Dogecoin等）、Scrypt-N（Vertcoin等）和 X11（DarkCoin等）。 Eobot评价: 声称是最简单、最便宜、最佳的云挖矿解决方案。从 $10 起，使用 PayPal 支付，可以选择任何数字加密货币，包括比特币、莱特币、点点币（Peercoin）、域名币（Namecoin）、羽毛币（Feathercoin）、狗狗币（Dogecoin）、NautilusCoin和Vertcoin。 MineOnCloud评价: MineOnCloud 似乎拥有已废止的硬件。它于2013年11月推出。他们使用非常稳定的 ASIC 28nm 芯片提供 SHA256 的比特币挖矿合约。他们提供两个比特币挖矿合约选择 —— 一日券和年度合约。客户可以选择比特币挖矿矿池，年度合约可以每月免费更换矿池。 Scrypt.cc评价: Scrypt.cc 允许在几秒钟内购买 KHS，并且立即开始挖矿，甚至能够以基于供需的价格实时交易您的 KHS！ 所有的 KHash 都可以在 2 个安全的数据中心得到安全的存储和维护。 PB Mining评价: 声称运营比特币挖矿 ASIC 硬件。当客户购买比特币挖矿合约后，他们将立即开始赚取比特币。在背驮式挖矿中（Piggyback Mining），他们支付电费和所有的比特币挖矿矿池费用。比特币挖矿合约进行了100％的投保，因为他们希望客户成功。 Bitcoin Cloud Services (BCS) 评价: 似乎已经成为$500,000的庞氏骗局欺诈。 Zeushash评价: 似乎已经停止支付。 Bitminer.io 评价: 根据用户报告，他们似乎已经停止支付。 Written byMelvin Draupnir. —— 本文结束 ——]]></content>
-      <tags>
-        <tag>Bitcoin</tag>
-        <tag>Ethereum</tag>
-        <tag>DASH</tag>
-        <tag>Litecoin</tag>
-        <tag>Mining</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[比特币币值已经超过四千美金，购买云挖矿算力抢收红利！]]></title>
-    <url>%2F2017%2F08%2F15%2FGenesis-mining%2F</url>
-    <content type="text"><![CDATA[中国的外汇管制措施将越来越严厉，人民币正借道比特币汇往境外，在人民币汇率崩盘之前，比特币都将持续升值。比特币成为中国资本外流的载体及担保物，再高的币值，也不影响其载体的功能。比特币的人民币与美元的汇率差，可视为资金汇出的成本。但因比特币币值正处在上升周期，用人民币购买比特币，比特币再换回外币时，时间差产生的升值冲销了部分资金汇出成本，甚至有所增值。只要比特币继续充当中国资金外流的载体，比特币就会继续升值，投资比特币正当其时。投资比特币，可以直接购币等待升值，亦可直接挖矿，与直接购置矿机相比，通过云端挖矿投资少见效快风险低。比特币托管云挖矿公司Genesis Mining（创世纪矿业）是全世界两间真实云端挖矿公司的其中一间，详情可从谷歌等搜索引擎中查阅。按照比特币当前的价格，最近几个月的月回报超过投资额的15%，投资五六个月就能回本，以后就是净赚。投入越多回报越多。 推荐注册Genesis Mining（创世纪矿业）链接： 国际(需要翻墙): https://www.genesis-mining.com/a/1359391 国际优惠码: VThcPt 中国站: https://www.genesis-mining.hk/a/4251 中国站优惠码: sLrDQg 投资时请注意，用优惠代码（VThcPt）每次充值都可以享有3%的折扣优惠。填了优惠码，你就会得到 3 % 的折扣。同时您也可以得到有效期为1年的同样数量的免费算力升级计划。请把这个优惠代码记下来，每次充值都用得着。 操作教程:1：打开网站点击注册，如下图！ 2：注册后登陆到此界面如下图介绍按顺序 3：选择投资方式和设置！如下图介绍按顺序！建议购买10TH起，效果比较明显。使用优惠码每次充值都可以有3%的折扣。 4：点击控制版面可以看到如下图说明在自动挖矿了。上面第3步投资转账成功后自动就开启挖矿了！如下图。特别提示，建议只使用sha256（下图左一）挖比特币，比较稳妥。开启挖矿后每天收益自动打款到你的钱包地址，坐享其成吧。 注意：不填邀请码无法得3%的投资折扣优惠，使用优惠代码每次充值都可以有3%的折扣，请把这个优惠代码记下来，每次充值都用得着。 国际站的优惠码: VThcPt中国站的优惠码: sLrDQg 充值时,验证一下,以防用错!!! 5: 一些常见问题可以在这里解决: 国际站客服中心: https://www.genesis-mining.com/customer-service 中国站客服中心: https://www.genesis-mining.hk/customer-service 本站郑重提醒：投资有风险，后果自负。 —— 本文结束 ——]]></content>
-      <tags>
-        <tag>Bitcoin</tag>
-        <tag>Ethereum</tag>
-        <tag>DASH</tag>
-        <tag>Litecoin</tag>
-        <tag>Mining</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[使用GitHub和Hexo搭建免费静态Blog]]></title>
-    <url>%2F2016%2F09%2F13%2FBuilding-blog-with-hexo-and-github-pages%2F</url>
-    <content type="text"><![CDATA[准备工作 安装GITGitHub WindowsSo Easy. 安装Node.jsNode.jsSo Easy. 安装Hexo配置好GitHub home目录后，双击桌面上的Git Shell，输入npm命令即可安装$ npm install hexo-cli -g Hexo初始化配置 创建Hexo文件夹安装完成后，根据自己喜好建立目录（如E:\GitHub\hexo），进入 Git Shell切换到该路径下 E:\GitHub\hexo 执行以下指令:1234567891011121314$ hexo init &lt;folder&gt;$ cd &lt;folder&gt;$ npm install# 目录如下:.├── _config.yml├── package.json├── scaffolds├── scripts├── source| ├── _drafts| └── _posts└── themes 安装一些常用插件12345678910111213npm install hexo-generator-index --savenpm install hexo-generator-archive --savenpm install hexo-generator-category --savenpm install hexo-generator-tag --savenpm install hexo-server --savenpm install hexo-deployer-git --savenpm install hexo-deployer-heroku --savenpm install hexo-deployer-rsync --savenpm install hexo-deployer-openshift --savenpm install hexo-renderer-marked --savenpm install hexo-renderer-stylus --savenpm install hexo-generator-feed --savenpm install hexo-generator-sitemap --save 查看本地效果继续执行以下命令，成功后可登录localhost:4000查看效果$ hexo s --debug Hexo一些常用指令1234567$ hexo init [folder] #初始化一个网站目录$ hexo new [layout] &lt;title&gt; #新建一篇文章$ hexo generate #生成静态文件$ hexo server #启动服务器,默认情况下，访问网址为： http://localhost:4000/$ hexo deploy #部署网站$ hexo clean #清除缓存文件 (`db.json`) 和已生成的静态文件 (`public`)$ hexo --debug #在终端中显示调试信息并记录到 `debug.log` 命令简写举例:$ hexo server 可以写成 $ hexo s Hexo主题设置这里以主题next为例进行说明 安装主题12$ cd your-hexo-site$ git clone https://github.com/iissnan/hexo-theme-next themes/next 启用主题打开站点配置文件 _config.yml， 找到 theme字段，并将其值更改为 next 更新主题$ hexo s --debug现在打开http://localhost:4000/ ，会看到我们已经应用了一个新的主题 部署静态网页到GitHub 注册设置GitHub 登录GitHub，注册自定义用户名如 penguin-g 在主页右下角创建New repository，name必须和用户名一致如penguin-g.github.io 首次创建耐心等待10分钟左右审核，之后即可访问静态主页 同步内容至GitHub 设置Local path,如E:\GitHub\ 运行Git Shell切换到,如E:\GitHub\hexo路径下 执行hexo g命令生成public目录 运行GitHub，点击左上角的＋，Clone刚才新建的库,会在E:\GitHub\下生成一个库名一样的目录，如penguin-g 把public下生成的内容全部拷贝到penguin-g的目录下 确认修改信息后执行GitHub右上角的Sync同步 最后访问主页观察效果 域名和DNS 域名推荐http://www.godaddy.com/ DNS推荐https://www.dnspod.cn/ 设置CNAME 在Github的网站目录下创建CNAME文件 填写自己的域名如0924.tk，保存结束 登录DNSPod，先添加域名，然后添加记录，设置如下 主机记录 记录类型 线路类型 记录值 权重 MX优先值 TTL @ CNAME 默认 penguin-g.github.io - - 60 www CNAME 默认 penguin-g.github.io - - 60 常见问题 修改配置文件时注意YAML语法，参数冒号:后一定要留空格 中文乱码请修改文件编码格式为UTF-8 —— 本文结束 ——]]></content>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Github</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2016%2F09%2F03%2FHello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment —— 本文结束 ——]]></content>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
+  
+  
+    
+    <entry>
+      <title><![CDATA[在NexT主题下设置Goole Adsense]]></title>
+      <url>https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/</url>
+      <content type="html"><![CDATA[<h3 id="新建Assense模版"><a href="#新建Assense模版" class="headerlink" title="新建Assense模版"></a>新建Assense模版</h3><pre><code>themes/xxxx/layout/_custom_ad/google_adsense.ejs
+</code></pre><p>将Google Adsense的代码复制到google_adsense.ejs<br><a id="more"></a></p>
+<h3 id="编辑layout-ejs"><a href="#编辑layout-ejs" class="headerlink" title="编辑layout.ejs"></a>编辑layout.ejs</h3><p>将广告添加到合适的位置</p>
+<pre><code>&lt;!-- ad start --&gt;
+&lt;%- partial(&apos;_custom_ad/google_adsense&apos;) %&gt;
+&lt;!-- ad end --&gt;
+</code></pre><p style="text-align:center;color: #ccc;font-size:14px;"><br>—— 本文结束 ——<br></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[最佳比特币云挖矿合约评价与比较]]></title>
+      <url>https://penguin-g.github.io/2017/08/24/Best-bitcoin-cloud%20mining-contract-reviews-and-comparisons/</url>
+      <content type="html"><![CDATA[<h3 id="什么是比特币云挖矿？"><a href="#什么是比特币云挖矿？" class="headerlink" title="什么是比特币云挖矿？"></a>什么是比特币云挖矿？</h3><p><img src="https://cl.ly/1n37293k1Q3u/bitcoin-cloud-mining-scams.jpg" alt="scam"><br><a id="more"></a></p>
+<p>云挖矿或云哈希计算使用户能够在数据中心购买硬件的挖矿能力。</p>
+<p>2家运营商，Hashflare 和 Genesis Mining，多年来一直提供合约。</p>
+<p>比特币云挖矿使人们能够获得比特币，而不需要使用比特币挖矿硬件、比特币挖矿软件、电、带宽，也没有其他离线问题。</p>
+<p>比特币云挖矿，有时被称为云哈希计算，使用户可以从位于远程数据中心的比特币挖矿硬件购买比特币挖矿能力的产出。</p>
+<p>那么所有的比特币挖矿都是在云端远程完成的。这使得所有者不需要处理在比特币挖矿时通常遇到的任何麻烦，如电、主机问题、热量、安装或故障维护。</p>
+<h3 id="比特币云挖矿的优势是什么？"><a href="#比特币云挖矿的优势是什么？" class="headerlink" title="比特币云挖矿的优势是什么？"></a>比特币云挖矿的优势是什么？</h3><ul>
+<li>无需处理多余的热量</li>
+<li>安静，因为没有持续发出嗡嗡声的电扇</li>
+<li>无需电费</li>
+<li>当比特币挖矿不再盈利时，无需出售比特币挖矿设备</li>
+<li>热设备无通风问题</li>
+<li>无需比特币挖矿设备供应商可能无法及时提供的预购比特币挖矿硬件</li>
+</ul>
+<h3 id="比特币云挖矿的劣势是什么？"><a href="#比特币云挖矿的劣势是什么？" class="headerlink" title="比特币云挖矿的劣势是什么？"></a>比特币云挖矿的劣势是什么？</h3><ul>
+<li>诈骗！！！</li>
+<li>无法验证的或可疑的比特币云端挖矿操作</li>
+<li>不好玩！ 如果你喜欢建立自己的比特币哈希计算系统的话。</li>
+<li>较低的利润——比特币云挖矿服务或运营商将收费</li>
+<li>如果比特币价格太低，比特币挖矿合约将能够停止合约中的运营或支付</li>
+<li>不能拥有比特币挖矿硬件</li>
+<li>缺乏改变比特币挖矿软件的能力</li>
+</ul>
+<h3 id="最佳的比特币云哈希计算服务"><a href="#最佳的比特币云哈希计算服务" class="headerlink" title="最佳的比特币云哈希计算服务"></a>最佳的比特币云哈希计算服务</h3><p>在此部分中列出这些服务并不代表对这些服务的认可，而是仅仅作为比特币云挖矿的比较。已发生大量的比特币云挖矿诈骗。</p>
+<p><strong>Hashflare 评价</strong>: Hashflare 提供 SHA-256 挖矿合约，可以开采利润更高的 SHA-256 比特币，但自动付款仍以比特币支付。客户必须至少购买 10 GH/s。</p>
+<p><strong>Genesis Mining评价</strong>: Genesis Mining 是最大的比特币和scrypt云挖矿提供商。Genesis Mining 提供三种比特币云计划，价格合理。还提供 Zcash 挖矿合约。</p>
+<p><strong>Hashing 24 评价</strong>: Hashing24 自2012年以来一直从事比特币挖矿。他们在冰岛和格鲁吉亚设有工厂。 他们使用 BitFury 的现代 ASIC 芯片，提供最高性能和效率。</p>
+<p><strong>Minex 评价</strong>: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买 Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。</p>
+<p><strong>Minergate 评价</strong>: 为比特币提供矿池以及合并的挖矿和云挖矿服务。</p>
+<p><strong>Hashnest 评价</strong>: Hashnest 由 Bitmain 运营，Bitmain 是比特币矿工的 Antminer 生产线的生产商。 HashNest 目前有超过 600 台 Antminer S7 可供出租。您可以在 Hashnest 的网站上查看最新的定价和供应情况。在撰写本文时，一台 Antminer S7 的哈希率的租赁价格为 $1,200。</p>
+<p><strong>Bitcoin Cloud Mining评价</strong>: 目前，所有比特币云挖矿合约都已售完。</p>
+<p><strong>NiceHash评价</strong>: NiceHash 是独一无二的因为它使用订单簿来匹配挖矿合约买家和卖家。查看它的网站获取最新价格。</p>
+<p><strong>Eobot评价</strong>: 从低至 $10 起云挖矿比特币。Eobot 声称客户可以在 14 个月内盈亏平衡。</p>
+<p><strong>MineOnCloud评价</strong>: MineOnCloud 目前在云端拥有大约 35 TH/s 的挖矿设备出租。可供出租的矿工包括 AntMiner S4和S5。</p>
+<h3 id="最佳比特币云挖矿合约及比较"><a href="#最佳比特币云挖矿合约及比较" class="headerlink" title="最佳比特币云挖矿合约及比较"></a>最佳比特币云挖矿合约及比较</h3><p>比特币云挖矿合约通常在特定时间段内以每个哈希为单位出售比特币，有几个因素会影响比特币云挖矿合约的盈利能力。</p>
+<p>例如，对于24个月的合约，每GHash/s 的支付将为0.0012 BTC/GH。</p>
+<p>合约时间从小时到多年不等。双方未知的主要因素是比特币网络难度，它在极大程度上决定了比特币云哈希计算合约的盈利能力</p>
+<p>比特币网络难度是衡量在给定目标下找到一个哈希的困难程度。</p>
+<p>比特币网络有一个全球性区块难度。 有效区块必须在此目标下有一个哈希。比特币挖矿矿池同样也有一个特定矿池的份额难度，设定了份额的下限。</p>
+<p>比特币的网络难度每两个星期或每 2016 个区块会发生改变。</p>
+<h3 id="最佳莱特币云挖矿服务及比较"><a href="#最佳莱特币云挖矿服务及比较" class="headerlink" title="最佳莱特币云挖矿服务及比较"></a>最佳莱特币云挖矿服务及比较</h3><p>以下是莱特币云挖矿合约的有限选择。如果下面列出的合约中没有符合您需求的合约，您可以购买比特币云挖矿合约（如上所列），并将您赚取的比特币转换为莱特币。</p>
+<p><strong>Hashflare 评价</strong>: Hashflare提供scrypt挖矿合约，1 MH/s 起购。</p>
+<p><strong>Genesis Mining评价</strong>: Genesis Mining 提供莱特币云挖矿合约。</p>
+<p><strong>Minex评价</strong>: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。</p>
+<p><strong>Minergate 评价</strong>: 为莱特币提供矿池以及合并的挖矿和云挖矿服务。</p>
+<p><strong>Eobot评价</strong>: Eobot提供莱特币云挖矿合约，每月支付0.0071 莱特币。</p>
+<h3 id="最佳达世币云挖矿服务及比较"><a href="#最佳达世币云挖矿服务及比较" class="headerlink" title="最佳达世币云挖矿服务及比较"></a>最佳达世币云挖矿服务及比较</h3><p>以下是达世币云挖矿合约的有限选择。如果下面列出的合约中没有符合您需求的合约，您可以购买比特币云挖矿合约（如上所列），并将您赚取的比特币转换为达世币。</p>
+<p><strong>Genesis Mining评价</strong>: 是全球规模最大的 X11 云挖矿提供商。Genesis Mining 提供三种价格合理的达世币 X11 云挖矿计划。</p>
+<h3 id="最佳以太币云挖矿服务及比较"><a href="#最佳以太币云挖矿服务及比较" class="headerlink" title="最佳以太币云挖矿服务及比较"></a>最佳以太币云挖矿服务及比较</h3><p>以下是以太币云挖矿合约的有限选择。如果下面列出的合约中没有符合您需求的合约，您可以购买比特币云挖矿合约（如上所列），并将您赚取的比特币转换为以太币。</p>
+<p><strong>Hashflare评价</strong>: Hashflare 是一家大型以太币云挖矿供应商，提供价格合理的以太坊云挖矿合约。</p>
+<p><strong>Genesis Mining评价</strong>: Genesis Mining 是规模最大的以太币云挖矿提供商。以太坊云挖矿合约价格合理。</p>
+<p><strong>Minex评价</strong>: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买 Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。</p>
+<p><strong>Eobot评价</strong>: Eobot提供以太坊挖矿合约，每月支付0.0060 以太币。</p>
+<p>这个以太坊云挖矿指南将向您展示如何使用亚马逊云服务器来开采以太坊。</p>
+<h3 id="比特币云挖矿诈骗"><a href="#比特币云挖矿诈骗" class="headerlink" title="比特币云挖矿诈骗"></a>比特币云挖矿诈骗</h3><p>存在大量的比特币云挖矿诈骗，例如已发现的可能的50万美元比特币云挖矿庞氏骗局。在购买任何比特币挖矿合约之前，准买家应特别小心谨慎。需要引起注意的服务：</p>
+<p><strong>Scrypt.cc评价</strong>: Scrypt.cc 允许在几秒钟内购买 KHS，并且立即开始挖矿，甚至能够以基于供需的价格实时交易您的 KHS！ 所有的 KHash 都可以在 2 个安全的数据中心得到安全的存储和维护。</p>
+<p><strong>PB Mining评价</strong>: 声称运营比特币挖矿 ASIC 硬件。当客户购买比特币挖矿合约后，他们将立即开始赚取比特币。在背驮式挖矿中（Piggyback Mining），他们支付电费和所有的比特币挖矿矿池费用。比特币挖矿合约进行了100％的投保，因为他们希望客户成功。</p>
+<p><strong>Bitcoin Cloud Services (BCS) 评价</strong>: 似乎已经成为$500,000的庞氏骗局欺诈。</p>
+<p><strong>Zeushash评价</strong>: 似乎已经停止支付。</p>
+<p><strong>Bitminer.io评价</strong>: 根据用户报告，他们似乎已经停止支付。</p>
+<h3 id="数字加密货币云挖矿公司"><a href="#数字加密货币云挖矿公司" class="headerlink" title="数字加密货币云挖矿公司"></a>数字加密货币云挖矿公司</h3><p><strong>Hashflare评价</strong>: 爱沙尼亚云矿工，拥有SHA-256、Scrypt和Scrypt-N选项，目前似乎是性价比最好的。</p>
+<p><strong>Genesis Mining评价</strong>: Genesis Mining 是最大的比特币和scrypt云挖矿提供商。</p>
+<p><strong>Hashing 24评价</strong>: Hashing24 自2012年以来一直从事比特币挖矿。他们在冰岛和格鲁吉亚设有工厂。他们使用 BitFury 的现代 ASIC 芯片，提供最高性能和效率。</p>
+<p><strong>Minex评价</strong>: Minex 是一家区块链项目的创新集成者，其项目以经济模拟游戏形式呈现。用户购买 Cloudpack，然后可以使用它们从预先选定的云矿场、彩票、赌场、现实世界市场等建立索引。</p>
+<p><strong>Minergate评价</strong>: MinerGate 是一组由数字加密货币爱好者创建的采矿池。它是首个为合并挖矿提供服务的矿池。这意味着，在我们的矿池挖矿时，您可以同时开采不同的货币，而不会减少主要货币的哈希率。</p>
+<p><strong>Hashnest评价</strong>: Hashnest 由 Bitmain 运营，Bitmain 是矿工蚂蚁矿机（Antminer）生产线的生产商。HashNest 目前拥有超过 600台 Antminer S7 可供出租。您可以在 Hashnest 的网站上查看最新的定价和供应情况。</p>
+<p><strong>Bitcoin Cloud Mining评价</strong>: 据说自2013年中以来一直在进行比特币挖矿。所有比特币矿工都位于澳大利亚最先进的数据中心，并可直接获得高质量的设备和全天候的支持。</p>
+<p><strong>NiceHash评价</strong>: NiceHash 向您提供销售和购买哈希能力的渠道。销售哈希能力就如同将您的矿工连接到我们的分层挖矿矿池一样简单，买家可以按需付费购买哈希能力，先付费后使用。声称提供一个创新的易于使用和无风险的云端挖矿服务。您可以开采绝大多数热门货币，基于 SHA-256（比特币等）、Scrypt（莱特币、Dogecoin等）、Scrypt-N（Vertcoin等）和 X11（DarkCoin等）。</p>
+<p><strong>Eobot评价</strong>: 声称是最简单、最便宜、最佳的云挖矿解决方案。从 $10 起，使用 PayPal 支付，可以选择任何数字加密货币，包括比特币、莱特币、点点币（Peercoin）、域名币（Namecoin）、羽毛币（Feathercoin）、狗狗币（Dogecoin）、NautilusCoin和Vertcoin。</p>
+<p><strong>MineOnCloud评价</strong>: MineOnCloud 似乎拥有已废止的硬件。它于2013年11月推出。他们使用非常稳定的 ASIC 28nm 芯片提供 SHA256 的比特币挖矿合约。他们提供两个比特币挖矿合约选择 —— 一日券和年度合约。客户可以选择比特币挖矿矿池，年度合约可以每月免费更换矿池。</p>
+<p><strong>Scrypt.cc评价</strong>: Scrypt.cc 允许在几秒钟内购买 KHS，并且立即开始挖矿，甚至能够以基于供需的价格实时交易您的 KHS！ 所有的 KHash 都可以在 2 个安全的数据中心得到安全的存储和维护。</p>
+<p><strong>PB Mining评价</strong>: 声称运营比特币挖矿 ASIC 硬件。当客户购买比特币挖矿合约后，他们将立即开始赚取比特币。在背驮式挖矿中（Piggyback Mining），他们支付电费和所有的比特币挖矿矿池费用。比特币挖矿合约进行了100％的投保，因为他们希望客户成功。</p>
+<p><strong>Bitcoin Cloud Services (BCS) 评价</strong>: 似乎已经成为$500,000的庞氏骗局欺诈。</p>
+<p><strong>Zeushash评价</strong>: 似乎已经停止支付。</p>
+<p><strong>Bitminer.io 评价</strong>: 根据用户报告，他们似乎已经停止支付。</p>
+<blockquote><footer><strong>Written by</strong><cite><a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/" target="_blank" rel="external">Melvin Draupnir.</a></cite></footer></blockquote>
+<p style="text-align:center;color: #ccc;font-size:14px;"><br>—— 本文结束 ——<br></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[比特币币值已经超过四千美金，购买云挖矿算力抢收红利！]]></title>
+      <url>https://penguin-g.github.io/2017/08/15/Genesis-mining/</url>
+      <content type="html"><![CDATA[<hr>
+<p>中国的外汇管制措施将越来越严厉，人民币正借道比特币汇往境外，在人民币汇率崩盘之前，比特币都将持续升值。比特币成为中国资本外流的载体及担保物，再高的币值，也不影响其载体的功能。比特币的人民币与美元的汇率差，可视为资金汇出的成本。但因比特币币值正处在上升周期，用人民币购买比特币，比特币再换回外币时，时间差产生的升值冲销了部分资金汇出成本，甚至有所增值。只要比特币继续充当中国资金外流的载体，比特币就会继续升值，投资比特币正当其时。<br><a id="more"></a><br>投资比特币，可以直接购币等待升值，亦可直接挖矿，与直接购置矿机相比，通过云端挖矿投资少见效快风险低。比特币托管云挖矿公司Genesis Mining（创世纪矿业）是全世界两间真实云端挖矿公司的其中一间，详情可从谷歌等搜索引擎中查阅。按照比特币当前的价格，最近几个月的月回报超过投资额的15%，投资五六个月就能回本，以后就是净赚。投入越多回报越多。</p>
+<p>推荐注册Genesis Mining（创世纪矿业）链接：</p>
+<ul>
+<li>国际(需要翻墙): <a href="https://www.genesis-mining.com/a/1359391" target="_blank" rel="external">https://www.genesis-mining.com/a/1359391</a>    </li>
+<li><p>国际优惠码: VThcPt</p>
+</li>
+<li><p>中国站: <a href="https://www.genesis-mining.hk/a/4251" target="_blank" rel="external">https://www.genesis-mining.hk/a/4251</a></p>
+</li>
+<li>中国站优惠码: sLrDQg</li>
+</ul>
+<p><em>投资时请注意，用优惠代码（VThcPt）每次充值都可以享有3%的折扣优惠。填了优惠码，你就会得到 3 % 的折扣。同时您也可以得到有效期为1年的同样数量的免费算力升级计划。请把这个优惠代码记下来，每次充值都用得着。</em></p>
+<h4 id="操作教程"><a href="#操作教程" class="headerlink" title="操作教程:"></a>操作教程:</h4><h5 id="1：打开网站点击注册，如下图！"><a href="#1：打开网站点击注册，如下图！" class="headerlink" title="1：打开网站点击注册，如下图！"></a>1：打开网站点击注册，如下图！</h5><p><img src="http://i.imgur.com/rUFShoz.png" alt="1"><br><img src="http://i.imgur.com/01Uf8Lu.jpg" alt="2"></p>
+<h5 id="2：注册后登陆到此界面如下图介绍按顺序"><a href="#2：注册后登陆到此界面如下图介绍按顺序" class="headerlink" title="2：注册后登陆到此界面如下图介绍按顺序"></a>2：注册后登陆到此界面如下图介绍按顺序</h5><p><img src="http://i.imgur.com/WbSpHWR.jpg" alt="3"></p>
+<h5 id="3：选择投资方式和设置！如下图介绍按顺序！"><a href="#3：选择投资方式和设置！如下图介绍按顺序！" class="headerlink" title="3：选择投资方式和设置！如下图介绍按顺序！"></a>3：选择投资方式和设置！如下图介绍按顺序！</h5><p><img src="http://i.imgur.com/2AVIWTq.jpg" alt="4"><br><img src="http://i.imgur.com/XDF6xQr.png" alt="5"><br>建议购买10TH起，效果比较明显。使用<em>优惠码</em>每次充值都可以有3%的折扣。<br><img src="http://i.imgur.com/jjsApUa.jpg" alt="6"><br><img src="http://i.imgur.com/l9sQd7X.jpg" alt="7"><br><img src="http://i.imgur.com/gsmAaIV.png" alt="8"></p>
+<h5 id="4：点击控制版面可以看到如下图说明在自动挖矿了。上面第3步投资转账成功后自动就开启挖矿了！如下图。特别提示，建议只使用sha256（下图左一）挖比特币，比较稳妥。"><a href="#4：点击控制版面可以看到如下图说明在自动挖矿了。上面第3步投资转账成功后自动就开启挖矿了！如下图。特别提示，建议只使用sha256（下图左一）挖比特币，比较稳妥。" class="headerlink" title="4：点击控制版面可以看到如下图说明在自动挖矿了。上面第3步投资转账成功后自动就开启挖矿了！如下图。特别提示，建议只使用sha256（下图左一）挖比特币，比较稳妥。"></a>4：点击控制版面可以看到如下图说明在自动挖矿了。上面第3步投资转账成功后自动就开启挖矿了！如下图。特别提示，建议只使用sha256（下图左一）挖比特币，比较稳妥。</h5><p><img src="http://i.imgur.com/WGfCWtQ.jpg" alt="9"><br>开启挖矿后每天收益自动打款到你的钱包地址，坐享其成吧。</p>
+<p><em>注意：不填邀请码无法得3%的投资折扣优惠，使用优惠代码每次充值都可以有3%的折扣，请把这个优惠代码记下来，每次充值都用得着。</em></p>
+<blockquote>
+<p>国际站的优惠码: VThcPt<br>中国站的优惠码: sLrDQg</p>
+</blockquote>
+<p><strong>充值时,验证一下,以防用错!!!</strong></p>
+<h5 id="5-一些常见问题可以在这里解决"><a href="#5-一些常见问题可以在这里解决" class="headerlink" title="5: 一些常见问题可以在这里解决:"></a>5: 一些常见问题可以在这里解决:</h5><ul>
+<li>国际站客服中心: <a href="https://www.genesis-mining.com/customer-service" target="_blank" rel="external">https://www.genesis-mining.com/customer-service</a></li>
+<li>中国站客服中心: <a href="https://www.genesis-mining.hk/customer-service" target="_blank" rel="external">https://www.genesis-mining.hk/customer-service</a></li>
+</ul>
+<p>本站郑重提醒：投资有风险，后果自负。</p>
+<p style="text-align:center;color: #ccc;font-size:14px;"><br>—— 本文结束 ——<br></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[使用GitHub和Hexo搭建免费静态Blog]]></title>
+      <url>https://penguin-g.github.io/2016/09/13/Building-blog-with-hexo-and-github-pages/</url>
+      <content type="html"><![CDATA[<hr>
+<p><img src="http://i.imgur.com/A0OjhNB.png" alt="github+hexo"><br><a id="more"></a></p>
+<h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><hr>
+<h4 id="安装GIT"><a href="#安装GIT" class="headerlink" title="安装GIT"></a>安装GIT</h4><p><a href="https://desktop.github.com/" target="_blank" rel="external">GitHub Windows</a><br>So Easy.</p>
+<h4 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h4><p><a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a><br>So Easy.</p>
+<h4 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h4><p>配置好<code>GitHub</code> home目录后，双击桌面上的<code>Git Shell</code>，输入<code>npm</code>命令即可安装<br><code>$ npm install hexo-cli -g</code></p>
+<h3 id="Hexo初始化配置"><a href="#Hexo初始化配置" class="headerlink" title="Hexo初始化配置"></a>Hexo初始化配置</h3><hr>
+<h4 id="创建Hexo文件夹"><a href="#创建Hexo文件夹" class="headerlink" title="创建Hexo文件夹"></a>创建Hexo文件夹</h4><p>安装完成后，根据自己喜好建立目录（如<code>E:\GitHub\hexo</code>），进入 <code>Git Shell</code>切换到该路径下 <code>E:\GitHub\hexo</code> 执行以下指令:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">$ hexo init &lt;folder&gt;</div><div class="line">$ cd &lt;folder&gt;</div><div class="line">$ npm install</div><div class="line"></div><div class="line"># 目录如下:</div><div class="line">.</div><div class="line">├── _config.yml</div><div class="line">├── package.json</div><div class="line">├── scaffolds</div><div class="line">├── scripts</div><div class="line">├── source</div><div class="line">|     ├── _drafts</div><div class="line">|     └── _posts</div><div class="line">└── themes</div></pre></td></tr></table></figure></p>
+<h4 id="安装一些常用插件"><a href="#安装一些常用插件" class="headerlink" title="安装一些常用插件"></a>安装一些常用插件</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">npm install hexo-generator-index --save</div><div class="line">npm install hexo-generator-archive --save</div><div class="line">npm install hexo-generator-category --save</div><div class="line">npm install hexo-generator-tag --save</div><div class="line">npm install hexo-server --save</div><div class="line">npm install hexo-deployer-git --save</div><div class="line">npm install hexo-deployer-heroku --save</div><div class="line">npm install hexo-deployer-rsync --save</div><div class="line">npm install hexo-deployer-openshift --save</div><div class="line">npm install hexo-renderer-marked --save</div><div class="line">npm install hexo-renderer-stylus --save</div><div class="line">npm install hexo-generator-feed --save</div><div class="line">npm install hexo-generator-sitemap --save</div></pre></td></tr></table></figure>
+<h4 id="查看本地效果"><a href="#查看本地效果" class="headerlink" title="查看本地效果"></a>查看本地效果</h4><p>继续执行以下命令，成功后可登录<code>localhost:4000</code>查看效果<br><code>$ hexo s --debug</code></p>
+<h4 id="Hexo一些常用指令"><a href="#Hexo一些常用指令" class="headerlink" title="Hexo一些常用指令"></a>Hexo一些常用指令</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">$ hexo init [folder]    #初始化一个网站目录</div><div class="line">$ hexo new [layout] &lt;title&gt;    #新建一篇文章</div><div class="line">$ hexo generate    #生成静态文件</div><div class="line">$ hexo server    #启动服务器,默认情况下，访问网址为： http://localhost:4000/</div><div class="line">$ hexo deploy    #部署网站</div><div class="line">$ hexo clean    #清除缓存文件 (`db.json`) 和已生成的静态文件 (`public`)</div><div class="line">$ hexo --debug    #在终端中显示调试信息并记录到 `debug.log`</div></pre></td></tr></table></figure>
+<blockquote>
+<p>命令简写举例:<br><code>$ hexo server</code> 可以写成 <code>$ hexo s</code> </p>
+</blockquote>
+<h4 id="Hexo主题设置"><a href="#Hexo主题设置" class="headerlink" title="Hexo主题设置"></a>Hexo主题设置</h4><p>这里以主题<code>next</code>为例进行说明</p>
+<h6 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ cd your-hexo-site</div><div class="line">$ git clone https://github.com/iissnan/hexo-theme-next themes/next</div></pre></td></tr></table></figure>
+<h6 id="启用主题"><a href="#启用主题" class="headerlink" title="启用主题"></a>启用主题</h6><p>打开<strong>站点配置文件</strong> <code>_config.yml</code>， 找到 theme字段，并将其值更改为 next</p>
+<h6 id="更新主题"><a href="#更新主题" class="headerlink" title="更新主题"></a>更新主题</h6><p><code>$ hexo s --debug</code><br>现在打开<code>http://localhost:4000/</code> ，会看到我们已经应用了一个新的主题</p>
+<h3 id="部署静态网页到GitHub"><a href="#部署静态网页到GitHub" class="headerlink" title="部署静态网页到GitHub"></a>部署静态网页到GitHub</h3><hr>
+<h4 id="注册设置GitHub"><a href="#注册设置GitHub" class="headerlink" title="注册设置GitHub"></a>注册设置GitHub</h4><ol>
+<li>登录<a href="https://github.com/" target="_blank" rel="external">GitHub</a>，注册自定义用户名如 <code>penguin-g</code></li>
+<li>在主页右下角创建<code>New repository</code>，<code>name</code>必须和用户名一致如<code>penguin-g.github.io</code></li>
+<li>首次创建耐心等待10分钟左右审核，之后即可访问静态主页</li>
+</ol>
+<h4 id="同步内容至GitHub"><a href="#同步内容至GitHub" class="headerlink" title="同步内容至GitHub"></a>同步内容至GitHub</h4><ol>
+<li>设置<code>Local path</code>,如<code>E:\GitHub\</code></li>
+<li>运行<code>Git Shell</code>切换到,如<code>E:\GitHub\hexo</code>路径下</li>
+<li>执行<code>hexo g</code>命令生成<code>public</code>目录</li>
+<li>运行<code>GitHub</code>，点击左上角的<code>＋</code>，<code>Clone</code>刚才新建的库,会在<code>E:\GitHub\</code>下生成一个库名一样的目录，如<code>penguin-g</code></li>
+<li>把<code>public</code>下生成的内容全部拷贝到<code>penguin-g</code>的目录下</li>
+<li>确认修改信息后执行<code>GitHub</code>右上角的<code>Sync</code>同步</li>
+<li>最后访问主页观察效果</li>
+</ol>
+<h3 id="域名和DNS"><a href="#域名和DNS" class="headerlink" title="域名和DNS"></a>域名和DNS</h3><hr>
+<h4 id="域名推荐"><a href="#域名推荐" class="headerlink" title="域名推荐"></a>域名推荐</h4><p><a href="http://www.godaddy.com/" target="_blank" rel="external">http://www.godaddy.com/</a></p>
+<h4 id="DNS推荐"><a href="#DNS推荐" class="headerlink" title="DNS推荐"></a>DNS推荐</h4><p><a href="https://www.dnspod.cn/" target="_blank" rel="external">https://www.dnspod.cn/</a></p>
+<h4 id="设置CNAME"><a href="#设置CNAME" class="headerlink" title="设置CNAME"></a>设置CNAME</h4><ol>
+<li>在<code>Github</code>的网站目录下创建<code>CNAME</code>文件</li>
+<li>填写自己的域名如<code>0924.tk</code>，保存结束</li>
+<li>登录<code>DNSPod</code>，先添加域名，然后添加记录，设置如下</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>主机记录</th>
+<th>记录类型</th>
+<th>线路类型</th>
+<th>记录值</th>
+<th>权重</th>
+<th>MX优先值</th>
+<th>TTL </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>@</td>
+<td>CNAME</td>
+<td>默认</td>
+<td>penguin-g.github.io</td>
+<td>-</td>
+<td>-</td>
+<td>60</td>
+</tr>
+<tr>
+<td>www</td>
+<td>CNAME</td>
+<td>默认</td>
+<td>penguin-g.github.io</td>
+<td>-</td>
+<td>-</td>
+<td>60</td>
+</tr>
+</tbody>
+</table>
+<h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><hr>
+<ol>
+<li>修改配置文件时注意<code>YAML</code>语法，参数<code>冒号:</code>后一定要留<code>空格</code></li>
+<li>中文乱码请修改文件编码格式为<code>UTF-8</code></li>
+</ol>
+<p style="text-align:center;color: #ccc;font-size:14px;"><br>—— 本文结束 ——<br></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>https://penguin-g.github.io/2016/09/03/Hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<p style="text-align:center;color: #ccc;font-size:14px;"><br>—— 本文结束 ——<br></p>
+]]></content>
+    </entry>
+    
+  
+  
 </search>
