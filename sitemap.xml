@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://penguin-g.github.io/2016/09/03/Hello-world/</loc>
+    <loc>https://penguin-g.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-08-28T15:11:20.603Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://penguin-g.github.io/2017/08/28/hello-world/</loc>
     
     <lastmod>2017-08-28T10:40:09.512Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://penguin-g.github.io/2016/09/13/Building-blog-with-hexo-and-github-pages/</loc>
+    <loc>https://penguin-g.github.io/2017/08/28/Building-blog-with-hexo-and-github-pages/</loc>
     
     <lastmod>2017-08-28T10:38:31.934Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://penguin-g.github.io/2017/08/24/Best-bitcoin-cloud%20mining-contract-reviews-and-comparisons/</loc>
+    <loc>https://penguin-g.github.io/2017/08/28/Best-bitcoin-cloud%20mining-contract-reviews-and-comparisons/</loc>
     
     <lastmod>2017-08-28T10:38:25.510Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://penguin-g.github.io/2017/08/15/Genesis-mining/</loc>
+    <loc>https://penguin-g.github.io/2017/08/28/Genesis-mining/</loc>
     
     <lastmod>2017-08-28T10:38:17.639Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/</loc>
+    <loc>https://penguin-g.github.io/2017/08/28/How-to-show-google-adsense-in-hexo/</loc>
     
     <lastmod>2017-08-28T10:38:13.200Z</lastmod>
     
@@ -47,13 +54,6 @@
     <loc>https://penguin-g.github.io/about/index.html</loc>
     
     <lastmod>2017-08-27T04:40:57.210Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://penguin-g.github.io/tags/index.html</loc>
-    
-    <lastmod>2016-09-04T03:46:44.058Z</lastmod>
     
   </url>
   
