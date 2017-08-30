@@ -5,7 +5,10 @@
     <entry>
       <title><![CDATA[HashFlare 云挖矿]]></title>
       <url>/2017/08/29/HashFlare/</url>
-      <content type="html"><![CDATA[<h5 id="HashFlare-是一家大型云挖矿供应商"><a href="#HashFlare-是一家大型云挖矿供应商" class="headerlink" title="HashFlare 是一家大型云挖矿供应商."></a>HashFlare 是一家大型云挖矿供应商.</h5><p><img src="https://cl.ly/2L1T072p2D0Y/0.png" alt=""><br><a id="more"></a><br>目前提供的合约: </p>
+      <content type="html"><![CDATA[<hr>
+<p><img src="https://cl.ly/2L1T072p2D0Y/0.png" alt=""> </p>
+<h5 id="HashFlare-是一家大型云挖矿供应商"><a href="#HashFlare-是一家大型云挖矿供应商" class="headerlink" title="HashFlare 是一家大型云挖矿供应商."></a>HashFlare 是一家大型云挖矿供应商.</h5><a id="more"></a>  
+<p>目前提供的合约: </p>
 <p>Bitcoin 永久合约:  <strong>SHA-256, Scrypt</strong><br>Ethereum 一年合约:  <strong>ETHASH</strong><br>DASH 一年合约:  <strong>X11</strong>   </p>
 <p>HashFlare注册网址(可能需要翻墙): <a href="https://hashflare.io/r/61B0D9A6" target="_blank" rel="external">https://hashflare.io/r/61B0D9A6</a>    </p>
 <p><strong>操作教程:</strong></p>
@@ -48,7 +51,8 @@
     <entry>
       <title><![CDATA[Genesis-mining 云挖矿]]></title>
       <url>/2017/08/29/Genesis-mining/</url>
-      <content type="html"><![CDATA[<p>中国的外汇管制措施将越来越严厉，人民币正借道比特币汇往境外，在人民币汇率崩盘之前，比特币都将持续升值。比特币成为中国资本外流的载体及担保物，再高的币值，也不影响其载体的功能。比特币的人民币与美元的汇率差，可视为资金汇出的成本。但因比特币币值正处在上升周期，用人民币购买比特币，比特币再换回外币时，时间差产生的升值冲销了部分资金汇出成本，甚至有所增值。只要比特币继续充当中国资金外流的载体，比特币就会继续升值，投资比特币正当其时。<br><a id="more"></a><br>投资比特币，可以直接购币等待升值，亦可直接挖矿，与直接购置矿机相比，通过云端挖矿投资少见效快风险低。比特币托管云挖矿公司Genesis Mining（创世纪矿业）是全世界两间真实云端挖矿公司的其中一间，详情可从谷歌等搜索引擎中查阅。按照比特币当前的价格，最近几个月的月回报超过投资额的15%，投资五六个月就能回本，以后就是净赚。投入越多回报越多。</p>
+      <content type="html"><![CDATA[<hr>
+<p>中国的外汇管制措施将越来越严厉，人民币正借道比特币汇往境外，在人民币汇率崩盘之前，比特币都将持续升值。比特币成为中国资本外流的载体及担保物，再高的币值，也不影响其载体的功能。比特币的人民币与美元的汇率差，可视为资金汇出的成本。但因比特币币值正处在上升周期，用人民币购买比特币，比特币再换回外币时，时间差产生的升值冲销了部分资金汇出成本，甚至有所增值。只要比特币继续充当中国资金外流的载体，比特币就会继续升值，投资比特币正当其时。<br><a id="more"></a><br>投资比特币，可以直接购币等待升值，亦可直接挖矿，与直接购置矿机相比，通过云端挖矿投资少见效快风险低。比特币托管云挖矿公司Genesis Mining（创世纪矿业）是全世界两间真实云端挖矿公司的其中一间，详情可从谷歌等搜索引擎中查阅。按照比特币当前的价格，最近几个月的月回报超过投资额的15%，投资五六个月就能回本，以后就是净赚。投入越多回报越多。</p>
 <p>推荐注册Genesis Mining（创世纪矿业）链接：</p>
 <ul>
 <li>国际(需要翻墙): <a href="https://www.genesis-mining.com/a/1359391" target="_blank" rel="external">https://www.genesis-mining.com/a/1359391</a>    </li>
@@ -96,7 +100,8 @@
     <entry>
       <title><![CDATA[在NexT主题下设置Goole Adsense]]></title>
       <url>/2017/08/26/How-to-show-google-adsense-in-hexo/</url>
-      <content type="html"><![CDATA[<h3 id="新建Assense模版"><a href="#新建Assense模版" class="headerlink" title="新建Assense模版"></a>新建Assense模版</h3><pre><code>themes/xxxx/layout/_custom_ad/google_adsense.ejs
+      <content type="html"><![CDATA[<hr>
+<h3 id="新建Assense模版"><a href="#新建Assense模版" class="headerlink" title="新建Assense模版"></a>新建Assense模版</h3><pre><code>themes/xxxx/layout/_custom_ad/google_adsense.ejs
 </code></pre><p>将Google Adsense的代码复制到google_adsense.ejs<br><a id="more"></a></p>
 <h3 id="编辑layout-ejs"><a href="#编辑layout-ejs" class="headerlink" title="编辑layout.ejs"></a>编辑layout.ejs</h3><p>将广告添加到合适的位置</p>
 <pre><code>&lt;!-- ad start --&gt;
@@ -120,7 +125,8 @@
     <entry>
       <title><![CDATA[最佳比特币云挖矿合约评价与比较]]></title>
       <url>/2017/08/24/Best-bitcoin-cloud%20mining-contract-reviews-and-comparisons/</url>
-      <content type="html"><![CDATA[<h3 id="什么是比特币云挖矿？"><a href="#什么是比特币云挖矿？" class="headerlink" title="什么是比特币云挖矿？"></a>什么是比特币云挖矿？</h3><p><img src="https://cl.ly/1n37293k1Q3u/bitcoin-cloud-mining-scams.jpg" alt="scam"><br><a id="more"></a></p>
+      <content type="html"><![CDATA[<hr>
+<h3 id="什么是比特币云挖矿？"><a href="#什么是比特币云挖矿？" class="headerlink" title="什么是比特币云挖矿？"></a>什么是比特币云挖矿？</h3><p><img src="https://cl.ly/1n37293k1Q3u/bitcoin-cloud-mining-scams.jpg" alt="scam"><br><a id="more"></a></p>
 <p>云挖矿或云哈希计算使用户能够在数据中心购买硬件的挖矿能力。</p>
 <p>2家运营商，Hashflare 和 Genesis Mining，多年来一直提供合约。</p>
 <p>比特币云挖矿使人们能够获得比特币，而不需要使用比特币挖矿硬件、比特币挖矿软件、电、带宽，也没有其他离线问题。</p>
