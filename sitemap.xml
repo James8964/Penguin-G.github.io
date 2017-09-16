@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://penguin-g.github.io/navigation/index.html</loc>
+    
+    <lastmod>2017-09-16T07:27:50.353Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://penguin-g.github.io/2017/08/26/How-to-show-google-adsense-in-hexo/</loc>
     
     <lastmod>2017-09-16T03:34:09.472Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://penguin-g.github.io/bitcoin/index.html</loc>
     
     <lastmod>2017-09-15T14:02:59.266Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://penguin-g.github.io/navigation/index.html</loc>
-    
-    <lastmod>2017-09-15T13:07:08.051Z</lastmod>
     
   </url>
   
