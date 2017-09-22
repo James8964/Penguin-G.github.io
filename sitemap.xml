@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://penguin-g.github.io/bitcoin/index.html</loc>
+    
+    <lastmod>2017-09-22T06:53:51.449Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://penguin-g.github.io/navigation/index.html</loc>
     
-    <lastmod>2017-09-16T08:14:58.804Z</lastmod>
+    <lastmod>2017-09-22T06:53:04.312Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>https://penguin-g.github.io/about/index.html</loc>
     
     <lastmod>2017-09-15T14:11:00.333Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://penguin-g.github.io/bitcoin/index.html</loc>
-    
-    <lastmod>2017-09-15T14:02:59.266Z</lastmod>
     
   </url>
   
