@@ -3,9 +3,15 @@ User-agent: *
 
 Allow: /
 Allow: /archives/
+Allow: /about/
+Allow: /bitcoin/
+Allow: /navigation/
+Allow: /tags/
+
 
 Disallow: /js/
 Disallow: /css/
+Disallow: /lib/
 
 Sitemap: http://0924.tk/sitemap.xml
 
