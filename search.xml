@@ -3,6 +3,22 @@
   
     
     <entry>
+      <title><![CDATA[Google搜索从入门到精通V5.0]]></title>
+      <url>/2017/10/08/Google-rearch-v5-0/</url>
+      <content type="html"><![CDATA[<hr><p><img src="/images/Google-logo.png" alt="google-logo"><br>5.0教程主要来自 <a href="https://support.google.com/websearch/?hl=zh-Hans#topic=3378866" target="_blank" rel="external">Google 网页搜索帮助中心</a> 和 <a href="https://www.google.com/intl/zh-CN/about/products/" target="_blank" rel="external">Google 产品大全</a> ，随着时间推移，教程可能跟不上变化，最好是直接到上述网址查看（打不开先看第零章）。<br><a id="more"></a></p><h3 id="第零章-越过长城，打开-Google"><a href="#第零章-越过长城，打开-Google" class="headerlink" title="第零章 越过长城，打开 Google"></a>第零章 越过长城，打开 Google</h3><p>如果你连 Google 都打不开的话，还是去<code>知乎</code>Or<code>Github</code>找找有关的帖子吧。</p><ul><li>免费工具 - <a href="http://0924.tk/navigation/" target="_blank" rel="external">lantern</a></li><li>VPN &amp; ShadowSocks - <a href="https://shadowsocks.org/en/index.html" target="_blank" rel="external">详情请戳</a></li><li>人肉翻墙 - <a href="mailto:crazy.penguin2017@gmail.com" target="_blank" rel="external">详情email站长</a></li></ul><p>注：</p><ol><li>使用代理后，可能你的 ip 会被识别为日本、新加坡等地，可以在搜索页面右侧，点击齿轮按钮进行设置；也可以在 Google 网址后添加/ncr,得到网址 <a href="http://www.google.com/ncr" target="_blank" rel="external">http://www.google.com/ncr</a> ，进行无国别搜索。</li><li>Google 会对某些违反版权的网站进行惩罚，比如用 Google 搜索『迅雷』，将无法找到官网（只是想提醒下这是 Google 的策略，而不是 Google 搜索不准确）。</li></ol><h3 id="第一章-搜索入门"><a href="#第一章-搜索入门" class="headerlink" title="第一章 搜索入门"></a>第一章 搜索入门</h3><p>关键词输入技巧</p><h4 id="1-使用简单的搜索字词"><a href="#1-使用简单的搜索字词" class="headerlink" title="1.使用简单的搜索字词"></a>1.使用简单的搜索字词</h4><p>用简单的字词进行搜索，并根据需要添加一些描述性字词。例如要查找特定地点的某个场所或商品，可添加该地点名称，如，南京面包店。</p><h4 id="2-认真选择措辞"><a href="#2-认真选择措辞" class="headerlink" title="2.认真选择措辞"></a>2.认真选择措辞</h4><p>在确定输入搜索框中的字词时，尽量选择要查找的网站上可能会出现的字词。例如，不要使用我的头很痛，而要使用头痛，因为医学网站上往往会使用后者。</p><h4 id="3-常用工具使用"><a href="#3-常用工具使用" class="headerlink" title="3.常用工具使用"></a>3.常用工具使用</h4><p>对于许多常用工具， Google 会直接显示。</p><ul><li>天气：搜索天气可查看所在地点的天气信息，如果在『天气』后加上城市名（例如天气北京），则可查看相应城市的天气信息。</li><li>字典：在任意字词前加上 define 即可查单词。</li><li>计算器：可以当作计算器，支持算术、函数物理常量的值、 基数和计数换算，可以为复杂的等式快速绘制图形，支持三角函数、指数函数、对数函数和 3D 图形。</li><li>单位换算：支持几乎所有常用内容的换算，直接输入要换算的内容即可，如 3 美元兑换人民币。</li><li>体育：搜索球队的名称，即可查看相关赛程和比赛得分等信息。</li><li>快讯：搜索名人、地点、电影或歌曲的名称可看到相关重要信息。</li></ul><h3 id="第二章-特定搜索"><a href="#第二章-特定搜索" class="headerlink" title="第二章 特定搜索"></a>第二章 特定搜索</h3><p>在输入搜索内容后，可选择搜索框下的搜索结果类型，以相应类型的搜索结果，包括图片、新闻、视频、地图和更多选项，点击更多可查看更多选项。此外，点击搜索工具可以限定语言和时间等。</p><p>常用的有：</p><h4 id="1-图片搜索"><a href="#1-图片搜索" class="headerlink" title="1.图片搜索"></a>1.图片搜索</h4><p><a href="https://images.google.com" target="_blank" rel="external">https://images.google.com</a></p><p>除了用关键词以外，可以用图片搜索图片，点击搜索框中的照相机按钮，即可上传图片或者利用网页内图片进行搜索。用这种方式用于查找图片来源，在辟谣时很有用，也可以用于找到和照片中长得像的人。</p><h4 id="2-Google-Scholar"><a href="#2-Google-Scholar" class="headerlink" title="2.Google Scholar"></a>2.Google Scholar</h4><p><a href="http://www.scholar.google.com/" target="_blank" rel="external">http://www.scholar.google.com/</a></p><p>注意，除了论文外，还可以搜索专利、法院判决书等。</p><h4 id="3-Google-Books"><a href="#3-Google-Books" class="headerlink" title="3.Google Books"></a>3.Google Books</h4><p><a href="https://books.google.com/" target="_blank" rel="external">https://books.google.com/</a></p><p>Google 扫描了许多图书馆的书籍，强大无比。</p><h4 id="4-Google-News"><a href="#4-Google-News" class="headerlink" title="4.Google News"></a>4.Google News</h4><p><a href="https://news.google.com/" target="_blank" rel="external">https://news.google.com/</a></p><p>需要重点提出的是，Google News 和 twitter 等不像新浪微博，会进行人工干预热点新闻。</p><h4 id="5-Vedio-Search"><a href="#5-Vedio-Search" class="headerlink" title="5.Vedio Search"></a>5.Vedio Search</h4><p><a href="https://www.google.com/videohp?hl=en" target="_blank" rel="external">https://www.google.com/videohp?hl=en</a> 啊，其实吧，个人觉得 <a href="https://www.youtube.com" target="_blank" rel="external">https://www.youtube.com</a> 更好玩。</p><p>点击 Google 应用或 Chrome 搜索框中的麦克风图标即可进行语音搜索。</p><h3 id="第三章-高级搜索技巧"><a href="#第三章-高级搜索技巧" class="headerlink" title="第三章 高级搜索技巧"></a>第三章 高级搜索技巧</h3><p>鉴于搜索引擎的智能化程度，需要使用到的情境不多，可以直接使用 Google 高级搜索，记不清楚也没关系。</p><p>标点和符号</p><p>某些标点和符号可以限定搜索范围或者搜索特定内容。</p><p>注意：标点均为英文半角。</p><ul><li><code>-</code>在某个字词或网站之前添加一个短横（减号），用于排除包含该字词或来自该网站的网页。在搜索有多种含义的字词（例如汽车品牌『美洲豹』和动物『美洲豹』）时，这种方法尤为实用。示例：<code>美洲豹 速度 -汽车</code> 或 <code>熊猫 -site:wikipedia.org</code></li><li><code>”</code>引号用于精确搜索该关键词。示例：<code>&quot;你有我有全都有&quot;</code></li><li><code>*</code>添加一个星号，是传说中的通配符，以表示任何未知或不确定的字词。 示例：<code>省*就是赚*</code></li><li><code>+</code>加号搜索 Google+ 信息页或血型。示例：<code>+Chrome</code>或 <code>AB+</code></li><li><code>@</code>查找社交网络帐户。示例：<code>@agoogler</code></li><li>查找价格。示例：<code>尼康400</code></li><li><code>#</code>查找热门。<code>#</code>标签以了解相关热门话题。示例：<code>#throwbackthursday</code></li><li><code>..</code>使用两个点号（不加空格）隔开两个数字，即可搜索包含相应范围内数字的搜索结果。示例：<code>相机 50..100</code><br>运算符</li></ul><p>添加搜索运算符到搜索条件中，可以缩小搜索结果范围。</p><p>注意：使用运算符或标点符号进行搜索时，不要在运算符和搜索字词之间添加空格。例如，<code>site:nytimes.com</code> 可以正常发挥作用，但 <code>site: nytimes.com</code> 则不行。还有就是冒号为英文半角。</p><ul><li>site: 仅搜索特定网站或网域中的网页。示例：<code>奥林匹克 site:nbc.com</code>和 <code>奥林匹克 site:.gov</code></li><li>related: 查找与您知道的某个网址类似的网站。示例：<code>related:time.com</code></li><li>OR 查找包含多个字词中的某个字词的网页。示例：<code>马拉松 OR 赛跑</code></li><li>info: 获取某网址的相关信息，包括网页的缓存版本、相似网页和链接至该网站的网页。示例：<code>info:google.com</code></li><li>cache: 查看 Google 上次抓取某个网站时其中网页的内容。示例：<code>cache:washington.edu</code></li></ul><h3 id="第四章-Google-利器"><a href="#第四章-Google-利器" class="headerlink" title="第四章 Google 利器"></a>第四章 Google 利器</h3><h4 id="1-Google-Trends"><a href="#1-Google-Trends" class="headerlink" title="1.Google Trends"></a>1.Google Trends</h4><p><a href="https://www.google.com/trends/?hl=en" target="_blank" rel="external">https://www.google.com/trends/?hl=en</a></p><p>看看一年当中各个地区的人们都在搜索些什么，很好玩的。</p><h4 id="2-Google-Arts"><a href="#2-Google-Arts" class="headerlink" title="2.Google Arts"></a>2.Google Arts</h4><p>把人类的文化遗产数字化，可足不出户看到世界名画，宅男腐女最爱。</p><p><a href="https://www.google.com/culturalinstitute/home" target="_blank" rel="external">https://www.google.com/culturalinstitute/home</a></p><h4 id="3-Google-Ngram-Viewer"><a href="#3-Google-Ngram-Viewer" class="headerlink" title="3.Google Ngram Viewer"></a>3.Google Ngram Viewer</h4><p>太逆天了，概念史学习的利器！</p><p><a href="https://books.google.com/ngrams" target="_blank" rel="external">https://books.google.com/ngrams</a></p><p>更多利器详见知乎 Google 有哪些逆天的黑科技？</p><h3 id="第五章-其他技巧"><a href="#第五章-其他技巧" class="headerlink" title="第五章 其他技巧"></a>第五章 其他技巧</h3><p>在 Google 上更改搜索位置</p><p>许多搜索结果与位置有关，比如直接搜索『酒店』，不同位置得到的结果不同。可以通过更改位置获得更精确的结果。方法如下：</p><p>在 Google 上随意进行一项搜索。向下滚动到搜索结果页底部，即可看到 Google 推测的您当前所处的位置。该位置可能是系统根据您的 IP 地址、位置记录或 Wi-Fi 连接推测得出。要更新位置信息，请点击使用确切位置或更新位置信息。 通用搜索</p><p>当你打开 <a href="https://www.google.com" target="_blank" rel="external">https://www.google.com</a> 时，经常会跳转到 hk 或者 jp，可以点击右下角的灰色网址，回到你想要的通用搜索上来。 查找缓存</p><p>当你要点击搜索结果，发现被删除了怎么办呢？答案是缓存。新改版后的 Google 缓存很不容易找，需要点击绿色网址后的向下箭头，再点击 cached。</p><p style="text-align:center;color:#ccc;font-size:14px"><br>—— 本文结束 ——<br></p>]]></content>
+      
+        
+        <tags>
+            
+            <tag> Google </tag>
+            
+            <tag> Search </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[一些比特币相关有趣的平台]]></title>
       <url>/2017/10/04/Make-money-with-bitcoin/</url>
       <content type="html"><![CDATA[<hr><h2><a href="#" class="headerlink"></a><img src="/images/localbitcoins.png" alt="LocalBitcoins.com"></h2><div class="note info"><p><a href="https://localbitcoins.com/?ch=g7h3" target="_blank" rel="external">LocalBitcoins.com</a>，是私人间互相交易比特币的网站。允许来自不同国家的人们可以用本国货币购买到比特币。 网站的卖家发布出售比特币的广告，并说明付款方式和汇率。也可根据广告内容选择直接在线交易或当面现金交易比特币。</p></div><a id="more"></a><h2 id="-1"><a href="#-1" class="headerlink"></a><img src="/images/bitcoin-web-hosting.png" width="100" height="100"></h2><div class="note info"><p><a href="https://secure.bitcoinwebhosting.net/aff.php?aff=285" target="_blank" rel="external">Bitcoin Web Hosting</a>，是接受Bitcoin的匿名主机,专用服务器,离岸主机的服务商。</p></div><h2 id="-2"><a href="#-2" class="headerlink"></a><img src="/images/bitbond.png" width="100" height="100"></h2><div class="note info"><p><a href="https://www.bitbond.com/?a=4F5R9SFP0Z" target="_blank" rel="external">Bitbond</a>，是一个比特币借贷平台，允许来自世界各地的用户借入或借出Bitcoin。</p></div><h2 id="-3"><a href="#-3" class="headerlink"></a><img src="/images/ipvanish.png" width="100" height="100"></h2><div class="note info"><p><a href="https://signup.ipvanish.com/" target="_blank" rel="external">IPVanish</a>，是一个接受bitcoin的VPN服务，允许用户匿名连接到互联网，并通过受损网络安全传输数据。</p></div><h2 id="-4"><a href="#-4" class="headerlink"></a><img src="/images/xcoins.png" width="120" height="100"></h2><div class="note info"><p><a href="https://xcoins.io/?r=mb6xpm" target="_blank" rel="external">Xcoins</a>，是一个比特币借贷平台,允许人们将Bitcoin借给彼此。支持信用卡，paypal。</p></div><h2 id="-5"><a href="#-5" class="headerlink"></a><img src="/images/a-ads.png" alt="A-ads"></h2><div class="note info"><p><a href="https://a-ads.com?partner=681324" target="_blank" rel="external">a-ads</a>，是一个匿名广告平台,是比特币广告平台，广告客户向发布商支付一定数量的广告，并获得比例份额的展示次数。不需要注册。</p></div><h2 id="-6"><a href="#-6" class="headerlink"></a><img src="/images/haasonline.png" alt="Haasonline"></h2><div class="note info"><p><a href="https : //www.haasonline.com/?ref= 227">Haasonline</a>，是一个比特币自动化交易的机器人，支持多个平台，支持多种货币，套利利器。</p></div><p style="text-align:center;color:#ccc;font-size:14px"><br>—— 本文结束 ——<br></p>]]></content>
@@ -68,9 +84,9 @@
             
             <tag> DASH </tag>
             
-            <tag> Litecoin </tag>
-            
             <tag> Mining </tag>
+            
+            <tag> Litecoin </tag>
             
         </tags>
         
@@ -88,11 +104,11 @@
         
         <tags>
             
+            <tag> Google </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Next </tag>
-            
-            <tag> Google </tag>
             
         </tags>
         
@@ -112,9 +128,9 @@
             
             <tag> DASH </tag>
             
-            <tag> Litecoin </tag>
-            
             <tag> Mining </tag>
+            
+            <tag> Litecoin </tag>
             
         </tags>
         
