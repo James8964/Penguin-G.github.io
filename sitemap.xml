@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://penguin-g.github.io/navigation/index.html</loc>
+    
+    <lastmod>2017-11-23T11:17:49.893Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://penguin-g.github.io/2017/11/23/Secure-and-fast-GitHub-Pages-with-CloudFlare/</loc>
     
     <lastmod>2017-11-23T08:14:53.579Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://penguin-g.github.io/2017/10/26/Cloudflare-free-ssl-installation-on-godaddy/</loc>
     
     <lastmod>2017-11-23T08:01:05.391Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://penguin-g.github.io/navigation/index.html</loc>
-    
-    <lastmod>2017-11-21T07:54:46.416Z</lastmod>
     
   </url>
   
